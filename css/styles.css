@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 60%;
+}
+
+h1 {
+  margin: 10px auto 0 auto;
+  width: 60%;
+  font-family: 'Sacramento', cursive;
+  font-size: 8.5rem;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.6rem;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+.sub-head {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.profilepic {
+  width: 150px;
+  height: 150px;
+  position: relative;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  padding: 20px;
+  position: relative;
+  padding-top: 100px;
+}
+
+.cloud-top {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.cloud-bottom {
+  position: absolute;
+  left: 300px;
+  bottom: 1200px;
+}
+
+.email-icon {
+  width: 12px;
+  height: 12px;
+}
+
+.linkedin {
+  width: 12px;
+  height: 12px;
+}
+
+.twitter {
+  width: 12px;
+  height: 12px;
+}
+
+.middle-container {}
+
+.bottom-container {}
